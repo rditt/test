@@ -1,1 +1,2 @@
 Text file
+Now has 2 lines
